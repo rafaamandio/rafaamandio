@@ -1,14 +1,11 @@
-## Olá! Eu sou Rafael Amandio
+<div></div>&nbsp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center"><img display="block" width="200" height="200" src="https://imgur.com/vRTnBnq.png" pointer-events="none"></div>&nbsp
 
+<div align="center"><p>RAFAEL <b>AMANDIO</b> <br>
+:construction:  [ <a href="www.amandio.dev.br" target="_blank">www.amandio.dev.br</a> ]  :construction: <br>
+Full Stack Developer | Vue / Node </p>
+</div>&nbsp
 
 <div align="center">
   <a href="https://github.com/rafaamandio">
@@ -22,7 +19,10 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <br>
 </div>  
+  
+##
   
 <div> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -32,4 +32,3 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
   
-![Snake animation](https://github.com/rafaamandio/rafaamandio/blob/output/github-contribution-grid-snake.svg)  
