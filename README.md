@@ -7,16 +7,18 @@
 Full Stack Developer | Vue / Node </p>
 </div>&nbsp
 
-<div align="left">
+<div align="">
   <a href="https://github.com/rafaamandio">
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaamandio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaamandio&layout=compact&langs_count=7&theme=dracula"/>
+  <br>
+  <img height="180em" src="https://github-readme-stats-rafaamandio.vercel.app//api/top-langs/?username=rafaamandio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
   <h1>My Skills</h1>
-  ##
   <img align="center" alt="Rafa-VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -31,7 +33,7 @@ Full Stack Developer | Vue / Node </p>
 ##
   
 <div>
-  <p>Contats</p>
+  <h2>Contats:</h2>
   <a href="https://instagram.com/rafa_amandio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rafaelamandio" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/leafaramandio#9519" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
