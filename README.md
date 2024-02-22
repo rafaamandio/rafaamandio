@@ -1,6 +1,6 @@
 <div></div>&nbsp
 
-<div align="center"><img display="block" width="200" height="200" src="https://mylogo.tailorbrands.com/share/8848676370.png" pointer-events="none"></div>&nbsp
+<div align="center"><img display="block" width="200" height="200" src="https://imgur.com/nNw63Ag.png" pointer-events="none"></div>&nbsp
 
 <div align="center"><p>RAFAEL <b>AMANDIO</b> <br>
 :construction:  [ <a href="www.amandio.dev.br" target="_blank">www.amandio.dev.br</a> ]  :construction: <br>
