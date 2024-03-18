@@ -9,7 +9,7 @@ Full Stack Developer | Vue / Node </p>
 </div>&nbsp
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaamandio&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaamandio&theme=radical&hide_border=true&locale=pt_BR&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaamandio&show_icons=true&theme=radical&layout=compact" />
  </div>
 
