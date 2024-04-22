@@ -3,11 +3,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="./rafael.png" />
 &nbsp;&nbsp;&nbsp;
 
-<div align="center">
-:construction:  [ <a href="www.amandio.dev.br" target="_blank">www.amandio.dev.br</a> ]  :construction: <br>
-Full Stack Developer | Vue / Node </p>
-</div>&nbsp
-
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaamandio&theme=radical&hide_border=true&locale=pt_BR&mode=weekly" />
 <img width=44% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaamandio&show_icons=true&theme=radical&layout=compact&hide_border=true" />
