@@ -20,7 +20,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="./astronauta.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Astronauta">
+<img src="./astronauta.png" min-width="200px" max-width="200px" width="400px" align="right" alt="Astronauta">
 
 #### Secondary Stack:
 
@@ -38,6 +38,18 @@
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
   
+#### Projects:
+
+|Nome Projeto | Link | Language |
+| --- | ---| --- |
+| Quiz Game | https://rafaamandio.github.io/quiz_game/ | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| Shopping Bag | https://rafaamandio.github.io/shopping_bag/ | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| Task List | https://rafaamandio.github.io/TaskList/ | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| Self Service Machine | https://rafaamandio.github.io/SelfServiceMachine/ | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| Book List | https://rafaamandio.github.io/Book_List/ | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| One Piece Project | https://rafaamandio.github.io/one-piece-project/ | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| Pokemon Project | https://rafaamandio.github.io/projeto-pokemon/ | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+
 ##
 
 ## Contacts:
