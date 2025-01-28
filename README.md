@@ -8,10 +8,11 @@
 <img width=44% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaamandio&show_icons=true&theme=radical&layout=compact&hide_border=true" />
  </div>
 
-
 ## My Skills
+<div  align="left" style="margin-bottom:100px">
 
 #### Main Stack:
+<img src="./astronauta.png" min-width="100%" max-width="100%" width="400px" align="right" alt="Astronauta">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -20,7 +21,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="./astronauta.png" min-width="200px" max-width="200px" width="400px" align="right" alt="Astronauta">
 
 #### Secondary Stack:
 
@@ -37,9 +37,12 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-  
-#### Projects:
+</div>
 
+
+## Projects:
+<div  align="left" style="margin-bottom:100px">
+ 
 |Nome Projeto | Link | Language |
 | --- | ---| --- |
 | Quiz Game | https://rafaamandio.github.io/quiz_game/ | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
@@ -50,7 +53,8 @@
 | One Piece Project | https://rafaamandio.github.io/one-piece-project/ | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | Pokemon Project | https://rafaamandio.github.io/projeto-pokemon/ | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
-##
+</div>
+
 
 ## Contacts:
   
