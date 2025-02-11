@@ -4,8 +4,8 @@
 &nbsp;&nbsp;&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaamandio&theme=radical&hide_border=true&locale=pt_BR&mode=weekly" />
-<img width=44% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaamandio&show_icons=true&theme=radical&layout=compact&hide_border=true" />
+<img width=55% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaamandio&theme=gotham&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+<img width=44% align="right" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaamandio&show_icons=true&theme=radical&layout=compact&hide_border=true" />
  </div>
 
 ## My Skills
