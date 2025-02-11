@@ -3,10 +3,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="./rafael.png" />
 &nbsp;&nbsp;&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=44% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaamandio&show_icons=true&theme=radical&layout=compact&hide_border=true" />
- </div>
-
 ## My Skills
 <div  align="left" style="margin-bottom:100px">
 
@@ -63,6 +59,11 @@
  <a href="https://discord.gg/leafaramandio#9519" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rafael.amandio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-rocha-dantas-amandio-02951786" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> 
+</div>
 
-<img src="./Dev.png" min-width="400px" max-width="100%" width="400px" align="right" alt="Dev">
+<div  align="center" style="margin-bottom:100px margin-top:100px">
+ </br>
+ </br>
+ <img width=44% align="left" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaamandio&show_icons=true&theme=radical&layout=compact&hide_border=true" />
+ <img src="./Dev.png" min-width="400px" max-width="100%" width="400px" align="right" alt="Dev">
+</div>
