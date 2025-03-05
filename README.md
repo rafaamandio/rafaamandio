@@ -38,15 +38,15 @@
 ## Projects:
 <div  align="left" style="margin-bottom:100px">
  
-|Nome Projeto | Link | Language |
+|Repositório do Projeto | Link de Produção | Language |
 | --- | ---| --- |
-| Quiz Game | https://rafaamandio.github.io/quiz_game/ | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
-| Shopping Bag | https://rafaamandio.github.io/shopping_bag/ | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
-| Task List | https://rafaamandio.github.io/TaskList/ | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
-| Self Service Machine | https://rafaamandio.github.io/SelfServiceMachine/ | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
-| Book List | https://rafaamandio.github.io/Book_List/ | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
-| One Piece Project | https://rafaamandio.github.io/one-piece-project/ | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| Pokemon Project | https://rafaamandio.github.io/projeto-pokemon/ | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| <a href="https://github.com/rafaamandio/quiz_game"> Quiz Game - Repo </a> |<a href="https://rafaamandio.github.io/quiz_game/"> Quiz Game - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| <a href="https://github.com/rafaamandio/shopping_bag"> Shopping Bag - Repo </a> | <a href="https://rafaamandio.github.io/shopping_bag/"> Shopping Bag - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| <a href="https://github.com/rafaamandio/TaskList"> Task List - Repo </a> | <a href="https://rafaamandio.github.io/TaskList/"> Task List - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| <a href="https://github.com/rafaamandio/SelfServiceMachine"> Self Service Machine - Repo </a> | <a href="https://rafaamandio.github.io/SelfServiceMachine/"> Self Service Machine - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| <a href="https://github.com/rafaamandio/Book_List"> Book List - Repo </a> | <a href="https://rafaamandio.github.io/Book_List/"> Book List - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| <a href="https://github.com/rafaamandio/one-piece-project"> One Piece Project - Repo </a> | <a href="https://rafaamandio.github.io/one-piece-project/"> One Piece Project - Prod </a> | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| <a href="https://github.com/rafaamandio/projeto-pokemon"> Pokemon Project - Repo </a> | <a href="https://rafaamandio.github.io/projeto-pokemon/"> Pokemon Project - Prod </a> | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
 </div>
 
