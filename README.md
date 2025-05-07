@@ -9,8 +9,8 @@
 #### Main Stack:
 <img src="./astronauta.png" min-width="100%" max-width="100%" width="400px" align="right" alt="Astronauta">
 
-![Nuxt](https://img.shields.io/badge/Nuxt-fff?style=for-the-badge&logo=Nuxt&logoColor=00DC82)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-fff?style=for-the-badge&logo=TailwindCSS&logoColor=#00BCFF)&nbsp;
+![Nuxt](https://img.shields.io/badge/Nuxt-000?style=for-the-badge&logo=Nuxt&logoColor=00DC82)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=TailwindCSS&logoColor=#00BCFF)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
