@@ -9,10 +9,9 @@
 #### Main Stack:
 <img src="./astronauta.png" min-width="100%" max-width="100%" width="400px" align="right" alt="Astronauta">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Nuxt](https://img.shields.io/badge/Nuxt-fff?style=for-the-badge&logo=Nuxt&logoColor=00DC82)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-fff?style=for-the-badge&logo=TailwindCSS&logoColor=#00BCFF)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
@@ -27,6 +26,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/supabase-000?style=for-the-badge&logo=Supabase&logoColor=#00BCFF)&nbsp;
 
 #### Workstation Tools:
 
