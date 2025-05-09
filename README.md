@@ -40,13 +40,14 @@
  
 |Repositório do Projeto | Link de Produção | Language |
 | --- | ---| --- |
-| <a href="https://github.com/rafaamandio/quiz_game"> Quiz Game - Repo </a> |<a href="https://rafaamandio.github.io/quiz_game/"> Quiz Game - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
-| <a href="https://github.com/rafaamandio/shopping_bag"> Shopping Bag - Repo </a> | <a href="https://rafaamandio.github.io/shopping_bag/"> Shopping Bag - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
-| <a href="https://github.com/rafaamandio/TaskList"> Task List - Repo </a> | <a href="https://rafaamandio.github.io/TaskList/"> Task List - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
-| <a href="https://github.com/rafaamandio/SelfServiceMachine"> Self Service Machine - Repo </a> | <a href="https://rafaamandio.github.io/SelfServiceMachine/"> Self Service Machine - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
-| <a href="https://github.com/rafaamandio/Book_List"> Book List - Repo </a> | <a href="https://rafaamandio.github.io/Book_List/"> Book List - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
-| <a href="https://github.com/rafaamandio/one-piece-project"> One Piece Project - Repo </a> | <a href="https://rafaamandio.github.io/one-piece-project/"> One Piece Project - Prod </a> | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| <a href="https://github.com/rafaamandio/projeto-pokemon"> Pokemon Project - Repo </a> | <a href="https://rafaamandio.github.io/projeto-pokemon/"> Pokemon Project - Prod </a> | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| <a href="https://github.com/rafaamandio/Project_RickAndMorty"> RickandMorty </a> |<strong> Developing </strong> | ![Nuxt](https://img.shields.io/badge/Nuxt-20232A?style=for-the-badge&logo=Nuxt&logoColor=00DC82) |
+| <a href="https://github.com/rafaamandio/quiz_game"> Quiz Game </a> |<a href="https://rafaamandio.github.io/quiz_game/"> Quiz Game - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| <a href="https://github.com/rafaamandio/shopping_bag"> Shopping Bag </a> | <a href="https://rafaamandio.github.io/shopping_bag/"> Shopping Bag - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| <a href="https://github.com/rafaamandio/TaskList"> Task List </a> | <a href="https://rafaamandio.github.io/TaskList/"> Task List - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| <a href="https://github.com/rafaamandio/SelfServiceMachine"> Self Service Machine </a> | <a href="https://rafaamandio.github.io/SelfServiceMachine/"> Self Service Machine - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| <a href="https://github.com/rafaamandio/Book_List"> Book List </a> | <a href="https://rafaamandio.github.io/Book_List/"> Book List - Prod </a> | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
+| <a href="https://github.com/rafaamandio/one-piece-project"> One Piece Project </a> | <a href="https://rafaamandio.github.io/one-piece-project/"> One Piece Project - Prod </a> | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| <a href="https://github.com/rafaamandio/projeto-pokemon"> Pokemon Project </a> | <a href="https://rafaamandio.github.io/projeto-pokemon/"> Pokemon Project - Prod </a> | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
 </div>
 
